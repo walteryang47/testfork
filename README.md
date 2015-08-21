@@ -1,2 +1,3 @@
 # testfork
+hi
 testFork
